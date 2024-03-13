@@ -1,6 +1,6 @@
 // @ts-ignore
 import { createApp } from 'vue'
-import './style.css'
+import './assets/styles.scss'
 import App from './App.vue'
 import PrimeVue from 'primevue/config'
 import Lara from './presets/lara'
